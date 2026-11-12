@@ -15,8 +15,10 @@ Double-click **`Start_Demo.bat`** in this folder (or in the project root).
 ### Windows / macOS / Linux (Terminal)
 ```bash
 # 1. Install Pillow (only dependency required!)
+mac&Linux
 pip install pillow
-
+Windows
+py -m pip install pillow
 # 2. Run the 1-click master launcher
 python run_demo.py
 ```
