@@ -9,6 +9,7 @@ It simulates the entire airborne drone mission control, on-sensor neural network
 ## ⚡ Quick Start (1-Click)
 
 ### Windows
+Download whole demo folder
 Double-click **`Start_Demo.bat`** in this folder (or in the project root).
 
 ### Windows / macOS / Linux (Terminal)
